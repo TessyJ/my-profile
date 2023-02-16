@@ -1,6 +1,5 @@
 # Project Name - my-proflie
 
-
 # Project URL
 https://tessyj.github.io/my-profile/
 
