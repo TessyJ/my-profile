@@ -174,6 +174,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    line-height: 1.5;
   }
   section .title{
     display: flex;
@@ -196,6 +197,7 @@ nav{
     background: #4070f4;
     left: 0;
     bottom: 0;
+  
   }
   section .title span::after{
     bottom: -7px;
@@ -220,6 +222,7 @@ nav{
     font-size: 25px;
     font-weight: 500;
     margin-bottom: 10px;
+    
   }
   .about-details .right p{
     text-align: justify;
