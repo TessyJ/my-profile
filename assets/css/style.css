@@ -138,8 +138,11 @@ nav{
     color: #4070f4;
   }
 
+  #skillsList{
+    line-height: 1.5;
+  }
 
-  
+ 
 
    /* Footer CSS */
    footer{
