@@ -11,3 +11,5 @@ https://github.com/TessyJ/my-profile
 
 # Screen Shot
 <img width="1709" alt="Screenshot1" src="https://user-images.githubusercontent.com/123785283/220225739-abedabc0-13c3-462b-85f1-73e1d4855926.png">
+
+<img width="1718" alt="Screenshot2" src="https://user-images.githubusercontent.com/123785283/220226208-bf0d1b81-4748-483e-bb7d-bc6b1f49711b.png">
