@@ -10,7 +10,9 @@ https://github.com/TessyJ/my-profile
  This webpage about My portfolio showcases excellent interpersonal skills and talents. Demonstrated passion for my services and contact information for employers looking to fill a part-time or full-time position.
 
 # Screen Shot
-<img width="1600" alt="Home Page" src="https://tessyj.github.io/my-profiler/assets/images/Screenshot 1.png">
+<img width="1600" alt="Home Page" src="https://tessyj.github.io/my-profile/assets/images/Screenshot1.png">
+<br> </br>
+
 <img width="1709" alt="Screenshot1" src="https://github.com/TessyJ/my-profile/blob/main/assets/images/Screenshot%201.png>
 
 <img width="1718" alt="Screenshot2" src="https://user-images.githubusercontent.com/123785283/220226208-bf0d1b81-4748-483e-bb7d-bc6b1f49711b.png">
